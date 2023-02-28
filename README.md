@@ -20,4 +20,6 @@ Wanna Connect Oficially: <a href="[https://andrespecht.com/](https://www.linkedi
 
 ##
 
-![Why Git](Lets.gif "Why Git")
+<a href="https://github.com/UDAY-2997">
+  <img align="center" src="Lets.gif" alt="chip" />
+</a>

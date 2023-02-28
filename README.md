@@ -1,4 +1,4 @@
-![Why Git](2.jpg "Why Git")
+! (2.jpg "pic1")
 
 ## About me
 
@@ -13,13 +13,13 @@ Wanna Connect Oficially: <a href="[https://andrespecht.com/](https://www.linkedi
 
 ### My skills
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=7543be)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=7543be)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=7543be)
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=7543be)
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=7543be)
 
 ##
 
 <a href="https://github.com/UDAY-2997">
-  <img align="center"   src="Lets.gif" alt="chip" />
+  <img align="right" src="Lets.gif" alt="chip" />
 </a>

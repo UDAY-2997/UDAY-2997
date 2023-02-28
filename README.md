@@ -1,4 +1,4 @@
-![Why Git](images.jfif "Why Git")
+![Why Git](2.jpg "Why Git")
 
 ## About me
 

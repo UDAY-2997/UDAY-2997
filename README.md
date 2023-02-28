@@ -1,4 +1,4 @@
-! (2.jpg "pic1")
+! (2.png "pic1")
 
 ## About me
 

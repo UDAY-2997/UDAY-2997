@@ -1,3 +1,5 @@
+![Why Git](assets/whygit.png "Why Git")
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on developing tech stuffs

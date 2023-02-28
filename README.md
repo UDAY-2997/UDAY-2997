@@ -13,10 +13,10 @@ Wanna Connect Oficially: <a href="[https://andrespecht.com/](https://www.linkedi
 
 ### My skills
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=7543be)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=black&color=7543be)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=black&color=7543be)
-![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=black&color=7543be)
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=7543be)
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=7543be)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=7543be)
+![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=7543be)
 
 ##
 

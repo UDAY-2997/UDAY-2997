@@ -1,6 +1,6 @@
 
 <a href="https://www.linkedin.com/in/uday-veer-singh-8793b8249/">
-  <img align="center" src="2.png" alt="robo" />
+  <img align="center" src="header.png" alt="robo" />
 </a>
 
 
@@ -27,5 +27,5 @@ Wanna Connect Oficially: <a href="https://www.linkedin.com/in/uday-veer-singh-87
 ##
 
 <a href="https://www.linkedin.com/in/uday-veer-singh-8793b8249/">
-  <img align="center" src="46.png" alt="chip" />
+  <img align="center" src="footer.png" alt="chip" />
 </a>

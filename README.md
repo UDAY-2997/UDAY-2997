@@ -6,7 +6,7 @@
 
 ## About me
 
-Hi there! I'm a skilled software developer with expertise in JavaScript, HTML, CSS. My GitHub repositories showcase a diverse range of projects that highlight my experience and problem-solving skills.
+Hi there! I'm Uday Veer Singh, a skilled software developer with expertise in JavaScript, HTML, CSS. My GitHub repositories showcase a diverse range of projects that highlight my experience and problem-solving skills.
 
 I'm always open to collaborating on new projects, so feel free to reach out if you're interested in working together!.
 

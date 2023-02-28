@@ -25,5 +25,5 @@ Wanna Connect Oficially: <a href="[https://andrespecht.com/](https://www.linkedi
 ##
 
 <a href="https://github.com/UDAY-2997">
-  <img align="center" src="Lets.gif" alt="chip" />
+  <img align="center" src="46.png" alt="chip" />
 </a>

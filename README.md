@@ -1,4 +1,8 @@
-! (2.png "pic1")
+
+<a href="https://github.com/UDAY-2997">
+  <img align="center" src="2.png" alt="robo" />
+</a>
+
 
 ## About me
 

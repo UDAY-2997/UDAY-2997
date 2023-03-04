@@ -26,6 +26,7 @@ Wanna Connect Oficially: <a href="https://www.linkedin.com/in/uday-veer-singh-87
 
 ##
 
-<a href="https://www.linkedin.com/in/uday-veer-singh-8793b8249/">
+<!-- <a href="https://www.linkedin.com/in/uday-veer-singh-8793b8249/">
   <img align="center" src="footer.png" alt="chip" />
 </a>
+ -->
